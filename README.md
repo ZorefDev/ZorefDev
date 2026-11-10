@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I'm Feroz 👋
 
-<!--
-**ZorefDev/ZorefDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Independent Game Developer | Unity & C#
 
-Here are some ideas to get you started:
+I build games with a focus on gameplay programming, game mechanics, and player experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an independent developer working primarily with Unity and C#, developing games from initial concepts to playable experiences.
+
+### 🎮 Featured Projects
+
+**Cores & Scrap Roguelite**
+- An isometric industrial vehicle roguelite.
+- Developed independently using Unity and C#.
+- Focused on vehicle combat, enemy AI, weapons, and progression systems.
+
+**Distract & Steal**
+- A low-poly top-down stealth game.
+- Built with Unity and the YouTube Gaming SDK.
+
+### 🛠️ Technical Skills
+
+- **Game Engine:** Unity
+- **Programming:** C#
+- **Graphics:** Blender, Shader Graph, URP
+- **Tools:** Git, GitHub, Visual Studio
+
+### 🌐 Find Me Online
+
+- **Portfolio:** https://zorefdev.github.io
+- **GitHub:** https://github.com/zorefdev
+- **LinkedIn:** https://www.linkedin.com/in/feroz-haider-4bb416374/
+
+---
+
+*Building games, learning through experimentation, and improving with every project.*
