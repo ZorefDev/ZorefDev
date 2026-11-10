@@ -29,6 +29,7 @@ I'm an independent developer working primarily with Unity and C#, developing gam
 - **Portfolio:** https://zorefdev.github.io
 - **GitHub:** https://github.com/zorefdev
 - **LinkedIn:** https://www.linkedin.com/in/feroz-haider-4bb416374/
+- Try Game: https://01-theory.itch.io/
 
 ---
 
